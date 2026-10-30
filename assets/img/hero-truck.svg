@@ -1,0 +1,48 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1280 810" width="1280" height="810" role="img" aria-labelledby="title desc">
+<title id="title">Фирменная иллюстрация рефрижератора MiniRef</title><desc id="desc">Белый грузовой рефрижератор с синей графикой в динамичной композиции</desc>
+<defs>
+<linearGradient id="sky" x2="1" y2="1"><stop stop-color="#F4FAFF"/><stop offset="1" stop-color="#D7E9F6"/></linearGradient>
+<linearGradient id="side" x2="0" y2="1"><stop stop-color="#FEFFFF"/><stop offset=".64" stop-color="#EEF5F9"/><stop offset="1" stop-color="#B8CBD8"/></linearGradient>
+<linearGradient id="cab" x2="0" y2="1"><stop stop-color="#fff"/><stop offset=".55" stop-color="#E7F0F5"/><stop offset="1" stop-color="#B0C4D3"/></linearGradient>
+<linearGradient id="window" x2="0" y2="1"><stop stop-color="#6B94AB"/><stop offset="1" stop-color="#183E58"/></linearGradient>
+<linearGradient id="stripe" x2="0" y2="1"><stop stop-color="#1592FF"/><stop offset="1" stop-color="#0C559A"/></linearGradient>
+</defs>
+<path d="M0 155h1280v655H0z" fill="url(#sky)" opacity=".0"/>
+<g opacity=".35" fill="none" stroke="#8DB5CD" stroke-width="1.4"><path d="M15 656h1240M100 680h1020M120 133h1000M140 103h380"/><path d="M155 170v460M420 140v500M680 125v514M945 130v500M1180 145v505" stroke-dasharray="5 11"/></g>
+<path d="M30 699c240-34 555-45 1090 0" fill="none" stroke="#0C3259" stroke-opacity=".1" stroke-width="18" stroke-linecap="round"/>
+<path d="M69 702h1100" stroke="#91B3C7" stroke-width="2" stroke-dasharray="22 16"/>
+<g transform="translate(0 -12)">
+<path d="M115 215l667-46 135 66-3 361-799 43z" fill="#ADC4D4" opacity=".36"/>
+<path d="M112 210l654-55 114 60-648 62z" fill="#fff" stroke="#96B4C7" stroke-width="3"/>
+<path d="M112 210l656-44 0 405-656 46z" fill="url(#side)" stroke="#799BAF" stroke-width="3"/>
+<path d="M768 166l112 49v351l-112 5z" fill="#C4D5E0" stroke="#6A91A8" stroke-width="3"/>
+<path d="M148 250l581-37v298l-581 38z" fill="#F9FCFD" stroke="#D4E4EB" stroke-width="2"/>
+<path d="M148 507l581-38v49l-581 37z" fill="url(#stripe)"/>
+<path d="M149 529l579-39v13l-579 37z" fill="#113A5D" opacity=".9"/>
+<path d="M181 326l200-14" stroke="#0C3259" stroke-opacity=".08" stroke-width="2"/>
+<text x="175" y="402" fill="#0C3259" font-family="Arial,sans-serif" font-size="76" font-weight="900" letter-spacing="-6">mini</text>
+<text x="304" y="402" fill="#148EFF" font-family="Arial,sans-serif" font-size="76" font-weight="900" letter-spacing="-6">ref</text>
+<text x="182" y="445" fill="#58778C" font-family="Arial,sans-serif" font-size="17" letter-spacing="7">COLD CHAIN LOGISTICS</text>
+<path d="M138 590l603-42" stroke="#6F8996" stroke-width="12" stroke-linecap="round"/>
+<g><path d="M791 327l166-15c41-4 58 6 77 37l81 119c19 24 26 40 26 68v72l-359 18-16-93V359c0-19 6-30 25-32Z" fill="url(#cab)" stroke="#7096AE" stroke-width="4"/>
+<path d="M858 337l108-9c28-1 41 11 54 32l53 78-228 7v-83c0-14 3-21 13-25Z" fill="url(#window)" stroke="#638DA6" stroke-width="3"/>
+<path d="M849 448l224-9 55 79-277 9Z" fill="#E8F0F5"/>
+<path d="M844 450l-3 113 301-13v-24l-47-79" fill="none" stroke="#8BA9BA" stroke-width="2"/>
+<path d="M874 467l61-2" stroke="#A4BBC8" stroke-width="7" stroke-linecap="round"/>
+<path d="M962 353l-8 91" stroke="#BCD0DC" stroke-width="4"/>
+<path d="M1045 455l52 0 23 36-71 1z" fill="#D9E7EF" stroke="#B1C5D0" stroke-width="2"/>
+<path d="M1074 502l56 2v25l-59 1Z" fill="#FFF4D5" stroke="#E8C481" stroke-width="3"/>
+<path d="M776 567l360-22v57l-360 22Z" fill="#1C3850"/>
+<path d="M776 591l360-21v30l-360 22Z" fill="#0C2436"/>
+<path d="M1142 548l29 0v55l-30 1Z" fill="#3C5362"/>
+<path d="M810 344h-40v12h42m-13 18h-40" stroke="#1C3445" stroke-width="10" stroke-linecap="round"/>
+<path d="M1110 464h42v13h-41" stroke="#1C3445" stroke-width="9" stroke-linecap="round"/>
+</g>
+<path d="M746 186l70 1 20 18-9 45-83 5Z" fill="#E9F0F4" stroke="#83A0B2" stroke-width="3"/>
+<path d="M749 207l70-1M745 223l73-1M744 238l70-1" stroke="#6D8C9D" stroke-width="5"/>
+<g><ellipse cx="286" cy="632" rx="83" ry="85" fill="#142B3C"/><ellipse cx="286" cy="632" rx="54" ry="56" fill="#899BA8"/><ellipse cx="286" cy="632" rx="35" ry="37" fill="#DCE5EB"/><ellipse cx="286" cy="632" rx="12" ry="13" fill="#738997"/><ellipse cx="927" cy="623" rx="91" ry="94" fill="#142B3C"/><ellipse cx="927" cy="623" rx="60" ry="62" fill="#899BA8"/><ellipse cx="927" cy="623" rx="39" ry="41" fill="#DCE5EB"/><ellipse cx="927" cy="623" rx="13" ry="14" fill="#738997"/></g>
+<path d="M118 603l18-5M755 573l15 0" stroke="#E38E49" stroke-width="10"/>
+</g>
+<g fill="#148EFF"><circle cx="82" cy="177" r="5"/><circle cx="1155" cy="251" r="5"/><circle cx="1213" cy="644" r="5"/></g>
+<path d="M87 176h210M1154 251h64v110" stroke="#148EFF" stroke-width="2" opacity=".6" fill="none"/>
+</svg>
